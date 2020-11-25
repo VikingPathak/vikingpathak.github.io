@@ -1,4 +1,6 @@
 ---
-title: Title
+title: About
+layout: template
+filename: about.md
 ---
 # Hi
