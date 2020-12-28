@@ -7,10 +7,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```Python3
+{% highlight ruby linenos %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+```ruby
 print(__doc__)
-
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
 
 # Code source: Jaques Grobler
 # License: BSD 3 clause
