@@ -5,7 +5,7 @@ Hi, I am an experienced Software Engineer having worked in variety of domains. M
 
 1. Real-time Covid Tracker using Flask, HTML and Highcharts.
 
-[GitHub Link]()
+[GitHub Link](about.md)
 
 [Project Link]()
 
